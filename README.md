@@ -1,7 +1,7 @@
 ### Hiiii I'm João Gabriel Magnani, i'm 29 years old, i love cold, play volleeyball and computer games 
 <div align="center">
   <a href="https://github.com/jgmagnani">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jgmagnani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jgmagnani&show_icons=true&theme=dracula&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jgmagnani&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
